@@ -54,6 +54,7 @@ const Navbar = () => {
   // Dark Mode Functionality
   const [isDarkMode, setIsDarkMode] = useState(() => {
     const savedTheme = localStorage.getItem("theme")
+    if(savedTheme?.startsWith('dark'))
     return savedTheme ? JSON.parse(savedTheme) : true
   })
 
