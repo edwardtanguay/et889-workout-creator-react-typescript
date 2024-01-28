@@ -1,0 +1,58 @@
+{
+  "exercises": {
+    "Beine": [
+      { "key": 1, "name": "Kniebeugen" },
+      { "key": 2, "name": "Ausfallschritte" },
+      { "key": 3, "name": "Bulgarian Split Squat" },
+      { "key": 4, "name": "Beinpresse" },
+      { "key": 5, "name": "Beinstrecker" },
+      { "key": 6, "name": "Beinbeuger" },
+      { "key": 7, "name": "Wadenheben" }
+    ],
+    "Rücken": [
+      { "key": 1, "name": "Kreuzheben" },
+      { "key": 2, "name": "Klimmzüge" },
+      { "key": 3, "name": "Latziehen" },
+      { "key": 4, "name": "Kabelrudern" },
+      { "key": 5, "name": "Vorgebeugtes Rudern" },
+      { "key": 6, "name": "T-Bar Rudern" },
+      { "key": 7, "name": "Hyperextensions" }
+    ],
+    "Brust": [
+      { "key": 1, "name": "Bankdrücken" },
+      { "key": 2, "name": "Schrägbankdrücken" },
+      { "key": 3, "name": "Negativbankdrücken" },
+      { "key": 4, "name": "Fliegende" },
+      { "key": 5, "name": "Dips" },
+      { "key": 6, "name": "Butterfly" },
+      { "key": 7, "name": "Liegestütze" }
+    ],
+    "Schultern": [
+      { "key": 1, "name": "Schulterdrücken" },
+      { "key": 2, "name": "Seitheben" },
+      { "key": 3, "name": "Frontheben" },
+      { "key": 4, "name": "Reverse Flys" },
+      { "key": 5, "name": "Shrugs" },
+      { "key": 6, "name": "Schulterpressen" },
+      { "key": 7, "name": "Aufrechtes Rudern" }
+    ],
+    "Bizeps": [
+      { "key": 1, "name": "Bizepscurls" },
+      { "key": 2, "name": "Hammercurls" },
+      { "key": 3, "name": "Konzentrationscurls" },
+      { "key": 4, "name": "Scottcurls" },
+      { "key": 5, "name": "Kabelcurls" },
+      { "key": 6, "name": "Langhantelcurls" },
+      { "key": 7, "name": "Kurzhantelcurls" }
+    ],
+    "Trizeps": [
+      { "key": 1, "name": "Trizepsdrücken" },
+      { "key": 2, "name": "Dips" },
+      { "key": 3, "name": "Kickbacks" },
+      { "key": 4, "name": "French Press" },
+      { "key": 5, "name": "Trizepsdrücken am Kabelzug" },
+      { "key": 6, "name": "Trizepsdrücken am Seil" },
+      { "key": 7, "name": "Überkopfdrücken" }
+    ]
+  }
+}
